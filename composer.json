@@ -1,0 +1,9 @@
+{
+    "autoload": {
+        "psr-4": {
+            "ishop\\": "vendor/udemy_ishop",
+            "application\\": "application"
+        }
+    },
+    "require": {}
+}
