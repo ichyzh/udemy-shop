@@ -1,7 +1,7 @@
 {
     "autoload": {
         "psr-4": {
-            "ishop\\": "vendor/udemy_ishop",
+            "ishop\\": "vendor/udemy_ishop/core",
             "application\\": "application"
         }
     },
