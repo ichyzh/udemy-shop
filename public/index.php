@@ -4,8 +4,8 @@ use ishop\App;
 
 require_once dirname(__DIR__) . '/config/init.php';
 require_once LIBS . '/functions.php';
+require_once CONF . '/routes.php';
 
-$app = new App;
+new App;
 
-throw new Exception('Page not found', 500);
 ?>

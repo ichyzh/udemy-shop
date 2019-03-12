@@ -88,3 +88,47 @@ ______________________
 ______________________
 [2019-03-12 10:41:22] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/public/index.php | Line: 10 
 ______________________
+[2019-03-12 10:48:13] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/public/index.php | Line: 10 
+______________________
+[2019-03-12 10:49:16] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/public/index.php | Line: 10 
+______________________
+[2019-03-12 10:49:49] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/public/index.php | Line: 10 
+______________________
+[2019-03-12 19:50:27] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/public/index.php | Line: 10 
+______________________
+[2019-03-12 20:26:15] Error text: Class 'ishop\Exeption' not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 26 
+______________________
+[2019-03-12 20:38:38] Error text: Call to undefined function ishop\str_replase() | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 56 
+______________________
+[2019-03-12 20:49:15] Error text: Class 'ishop\Exeption' not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 34 
+______________________
+[2019-03-12 20:49:44] Error text: Class 'ishop\Exeption' not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 35 
+______________________
+[2019-03-12 20:51:56] Error text: Class 'ishop\Exeption' not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 35 
+______________________
+[2019-03-12 20:52:31] Error text: Class 'Exeption' not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 35 
+______________________
+[2019-03-12 20:52:36] Error text: Class 'ishop\Exeption' not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 35 
+______________________
+[2019-03-12 20:52:38] Error text: Class 'ishop\Exeption' not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 35 
+______________________
+[2019-03-12 20:55:01] Error text: Class 'Exeption' not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-12 20:55:03] Error text: Class 'Exeption' not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-12 20:55:20] Error text: Class 'ishop\Exception' not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 36 
+______________________
+[2019-03-12 20:55:21] Error text: Class 'ishop\Exception' not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 36 
+______________________
+[2019-03-12 20:55:22] Error text: Class 'ishop\Exception' not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 36 
+______________________
+[2019-03-12 20:55:25] Error text: Controller application\controllers\ViewController not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-12 20:55:46] Error text: Controller application\controllers\ViewController not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 36 
+______________________
+[2019-03-12 20:55:47] Error text: Controller application\controllers\ViewController not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 36 
+______________________
+[2019-03-12 20:55:48] Error text: Controller application\controllers\ViewController not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 36 
+______________________
+[2019-03-12 20:57:22] Error text: Method application\controllers\PageController::indexAction not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 33 
+______________________

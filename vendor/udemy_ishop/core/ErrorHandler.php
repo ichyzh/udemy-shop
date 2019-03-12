@@ -19,6 +19,7 @@ class ErrorHandler
     }
 
     protected function logErrors($message = '', $file = '', $line = '') {
+        date_default_timezone_set('Europe/Kiev');
         error_log("[" . date('Y-m-d H:i:s') . "] Error text: {$message} | File: {$file} | Line: {$line} \n______________________\n", 3, ROOT . '/tmp/errors.log');
     }
 
