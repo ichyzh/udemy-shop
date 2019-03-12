@@ -4,7 +4,6 @@ namespace ishop;
 
 class Registry
 {
-
     use TSingletone;
 
     protected static $properties = [];
