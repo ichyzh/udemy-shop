@@ -132,3 +132,53 @@ ______________________
 ______________________
 [2019-03-12 20:57:22] Error text: Method application\controllers\PageController::indexAction not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 33 
 ______________________
+[2019-03-18 17:07:19] Error text: syntax error, unexpected '}', expecting ',' or ';' | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/base/View.php | Line: 41 
+______________________
+[2019-03-18 17:10:50] Error text: syntax error, unexpected '<', expecting end of file | File: /Users/ichyzh/htdocs/udemy_shop/application/views/layouts/default.php | Line: 5 
+______________________
+[2019-03-18 17:33:57] Error text: Class 'application\controllers\App' not found | File: /Users/ichyzh/htdocs/udemy_shop/application/controllers/MainController.php | Line: 8 
+______________________
+[2019-03-18 18:32:31] Error text: Call to undefined method application\controllers\PageController::getView() | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 30 
+______________________
+[2019-03-18 18:48:57] Error text: Class 'ishop\base\Exception' not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/base/View.php | Line: 37 
+______________________
+[2019-03-18 18:49:28] Error text: View not found {$viewFile} | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/base/View.php | Line: 37 
+______________________
+[2019-03-18 18:49:44] Error text: View not found /Users/ichyzh/htdocs/udemy_shop/application/views/Page/view.php | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/base/View.php | Line: 37 
+______________________
+[2019-03-18 19:03:38] Error text: View not found /Users/ichyzh/htdocs/udemy_shop/application/views/Page/view.php | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/base/View.php | Line: 37 
+______________________
+[2019-03-18 19:03:39] Error text: View not found /Users/ichyzh/htdocs/udemy_shop/application/views/Page/view.php | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/base/View.php | Line: 37 
+______________________
+[2019-03-18 19:03:57] Error text: View not found /Users/ichyzh/htdocs/udemy_shop/application/views/Page/view.php | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/base/View.php | Line: 37 
+______________________
+[2019-03-18 19:04:05] Error text: View not found /Users/ichyzh/htdocs/udemy_shop/application/views/Page/view.php | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/base/View.php | Line: 37 
+______________________
+[2019-03-18 19:26:37] Error text: View not found /Users/ichyzh/htdocs/udemy_shop/application/views/Page/view.php | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/base/View.php | Line: 37 
+______________________
+[2019-03-18 19:38:39] Error text: Class 'R' not found | File: /Users/ichyzh/htdocs/udemy_shop/application/controllers/MainController.php | Line: 9 
+______________________
+[2019-03-18 19:39:20] Error text: Call to a member function find() on null | File: /Users/ichyzh/htdocs/udemy_shop/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Line: 847 
+______________________
+[2019-03-18 19:40:17] Error text: Call to a member function find() on null | File: /Users/ichyzh/htdocs/udemy_shop/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Line: 847 
+______________________
+[2019-03-18 19:40:18] Error text: Call to a member function find() on null | File: /Users/ichyzh/htdocs/udemy_shop/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Line: 847 
+______________________
+[2019-03-18 19:40:18] Error text: Call to a member function find() on null | File: /Users/ichyzh/htdocs/udemy_shop/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Line: 847 
+______________________
+[2019-03-18 19:40:19] Error text: Call to a member function find() on null | File: /Users/ichyzh/htdocs/udemy_shop/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Line: 847 
+______________________
+[2019-03-18 19:40:19] Error text: Call to a member function find() on null | File: /Users/ichyzh/htdocs/udemy_shop/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Line: 847 
+______________________
+[2019-03-18 19:40:19] Error text: Call to a member function find() on null | File: /Users/ichyzh/htdocs/udemy_shop/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Line: 847 
+______________________
+[2019-03-18 19:41:10] Error text: Call to a member function find() on null | File: /Users/ichyzh/htdocs/udemy_shop/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Line: 847 
+______________________
+[2019-03-18 19:41:11] Error text: Call to a member function find() on null | File: /Users/ichyzh/htdocs/udemy_shop/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Line: 847 
+______________________
+[2019-03-18 19:44:16] Error text: Too few arguments to function application\models\AppModel::__construct(), 0 passed in /Users/ichyzh/htdocs/udemy_shop/application/controllers/AppController.php on line 10 and exactly 1 expected | File: /Users/ichyzh/htdocs/udemy_shop/application/models/AppModel.php | Line: 10 
+______________________
+[2019-03-18 20:14:01] Error text: Failed to connect to DB | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Db.php | Line: 16 
+______________________
+[2019-03-18 20:27:59] Error text: Class 'application\controllers\Cache' not found | File: /Users/ichyzh/htdocs/udemy_shop/application/controllers/MainController.php | Line: 16 
+______________________
