@@ -15,7 +15,7 @@ class MainController extends AppController
         $names = ['Andrey', 'Jane', 'Mike'];
         $cache = Cache::instance();
         // $cache->set('test', $names);
-        // $cache->delete('test');
+        $cache->delete('test');
         $data = Cache::get('test');
         if (!$data) {
             $cache->set('test', $names);
