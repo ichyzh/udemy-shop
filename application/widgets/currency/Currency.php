@@ -15,6 +15,7 @@ class Currency
 
     protected function run() {
 
+        $this->getHtml(); 
     }
 
     public static function getCurrencies() {
