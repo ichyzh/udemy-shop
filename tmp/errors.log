@@ -182,3 +182,225 @@ ______________________
 ______________________
 [2019-03-18 20:27:59] Error text: Class 'application\controllers\Cache' not found | File: /Users/ichyzh/htdocs/udemy_shop/application/controllers/MainController.php | Line: 16 
 ______________________
+[2019-03-20 16:18:32] Error text: Failed to connect to DB | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Db.php | Line: 16 
+______________________
+[2019-03-20 16:19:14] Error text: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ishop.test' doesn't exist | File: /Users/ichyzh/htdocs/udemy_shop/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Line: 194 
+______________________
+[2019-03-20 16:21:56] Error text: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ishop.test' doesn't exist | File: /Users/ichyzh/htdocs/udemy_shop/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Line: 194 
+______________________
+[2019-03-20 16:21:57] Error text: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ishop.test' doesn't exist | File: /Users/ichyzh/htdocs/udemy_shop/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Line: 194 
+______________________
+[2019-03-20 16:31:43] Error text: Failed to connect to DB | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Db.php | Line: 16 
+______________________
+[2019-03-20 16:32:33] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 16:32:33] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 16:32:33] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 16:32:33] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 16:32:33] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 16:32:33] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 16:32:33] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 16:32:33] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 16:32:33] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 16:32:33] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 16:32:33] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 16:32:33] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 16:32:33] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 16:32:33] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 16:32:33] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 16:32:33] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 16:32:33] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 16:32:33] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 16:32:33] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 16:32:33] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 16:32:33] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 16:32:33] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 16:32:33] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 16:32:33] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 16:32:33] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 16:32:33] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 16:32:33] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 16:32:33] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 16:32:33] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 16:35:14] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 16:35:14] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 16:35:14] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 16:35:14] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 16:35:14] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 16:35:14] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 16:35:14] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 16:35:14] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 16:35:14] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 16:35:14] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 16:35:14] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 16:35:14] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 16:35:14] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 16:35:14] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 16:35:14] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 16:35:14] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 16:35:14] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 16:35:14] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 16:35:14] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 16:35:14] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 16:35:14] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 16:35:14] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 16:35:14] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 16:35:14] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 16:35:14] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 16:35:14] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 16:35:14] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 16:35:14] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 16:35:15] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 16:37:28] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 16:37:31] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 16:37:33] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 16:37:33] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 16:37:34] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 16:42:13] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 16:43:24] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 16:48:25] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 16:48:36] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 16:48:38] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 16:49:50] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 16:49:51] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 16:53:21] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 16:53:30] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 16:53:31] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 16:54:19] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 16:54:58] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 16:55:01] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 16:55:02] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 16:55:10] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 16:55:11] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 16:55:11] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 16:55:12] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 16:55:13] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 16:55:13] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 16:55:14] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 16:55:14] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 16:55:15] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 18:15:35] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 18:20:04] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 18:20:28] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 18:21:10] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 18:21:31] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 18:21:49] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 18:21:53] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 18:21:55] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 18:21:58] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 18:22:01] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 18:22:32] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 18:22:42] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 18:23:15] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 18:23:19] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 18:23:19] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 18:26:07] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 18:40:49] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 18:43:35] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 19:20:42] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
+[2019-03-20 19:29:05] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
+______________________
