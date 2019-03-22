@@ -20,10 +20,8 @@
 				<div class="col-md-6 top-header-left">
 					<div class="drop">
 						<div class="box">
-							<select tabindex="4" class="dropdown drop">
-								<option value="" class="label">Dollar :</option>
-								<option value="1">Dollar</option>
-								<option value="2">Euro</option>
+							<select id="currency" tabindex="4" class="dropdown drop">
+								<?php new \application\widgets\currency\Currency(); ?>
 							</select>
 						</div>
 						<div class="box1">
@@ -63,7 +61,10 @@
 		<div class="container">
 			<div class="header">
 				<div class="col-md-9 header-left">
-				<div class="top-nav">
+				<div class="menu">
+					<?php new \application\widgets\menu\Menu(['tpl' => WWW . '/menu/menu.php']); ?>
+				</div>
+				<!-- <div class="top-nav">
 					<ul class="memenu skyblue"><li class="active"><a href="index.html">Home</a></li>
 						<li class="grid"><a href="#">Men</a>
 							<div class="mepanel">
@@ -199,7 +200,7 @@
 						<li class="grid"><a href="contact.html">Contact</a>
 						</li>
 					</ul>
-				</div>
+				</div> -->
 				<div class="clearfix"> </div>
 			</div>
 			<div class="col-md-3 header-right"> 
@@ -286,27 +287,28 @@
     <!--dropdown-->
     <script src="js/jquery.easydropdown.js"></script>
     	<!--Slider-Starts-Here-->
-        <script src="js/responsiveslides.min.js"></script>
-			 <script>
-			    // You can also use "$(window).load(function() {"
-			    $(function () {
-			      // Slideshow 4
-			      $("#slider4").responsiveSlides({
-			        auto: true,
-			        pager: true,
-			        nav: true,
-			        speed: 500,
-			        namespace: "callbacks",
-			        before: function () {
-			          $('.events').append("<li>before event fired.</li>");
-			        },
-			        after: function () {
-			          $('.events').append("<li>after event fired.</li>");
-			        }
-			      });
-			
-			    });
-			  </script>
+	<script src="js/responsiveslides.min.js"></script>
+	<script>
+	// You can also use "$(window).load(function() {"
+	$(function () {
+		// Slideshow 4
+		$("#slider4").responsiveSlides({
+		auto: true,
+		pager: true,
+		nav: true,
+		speed: 500,
+		namespace: "callbacks",
+		before: function () {
+			$('.events').append("<li>before event fired.</li>");
+		},
+		after: function () {
+			$('.events').append("<li>after event fired.</li>");
+		}
+		});
+
+	});
+	</script>
+	<script src="js/main.js"></script>
 			<!--End-slider-script-->	
 </body>
 </html>
