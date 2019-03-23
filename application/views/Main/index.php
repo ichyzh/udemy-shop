@@ -60,7 +60,7 @@
 						</div>
 						<?php if($hit->old_price): ?>
 							<div class="srch">
-								<span><?=number_format((1 - ($hit->price/$hit->old_price))*100, 1);?></span>
+								<span><?=number_format(((1 - ($hit->price/$hit->old_price))*100), 1);?>%</span>
 							</div>
 						<?php endif; ?>
 					</div>

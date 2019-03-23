@@ -10,6 +10,7 @@ class Menu
     protected $menuHtml;
     protected $tpl;
     protected $container = 'ul';
+    protected $class = 'menu';
     protected $table = 'category';
     protected $cache = 3600;
     protected $cacheKey = 'ishop_menu';
@@ -30,28 +31,27 @@ class Menu
         }
     }
 
-    protected function run(){
+    protected function run() {
         $cache = Cache::instance();
         $this->menuHtml = $cache->get($this->cacheKey);
         if(!$this->menuHtml){
             $this->data = App::$app->getProperty('cats');
-            if(!$this->data){
+            if(!$this->data) {
                 $this->data = $cats = \R::getAssoc("SELECT * FROM {$this->table}");
             }
             $this->tree = $this->getTree();
             $this->menuHtml = $this->getMenuHtml($this->tree);
-            if($this->cache){
+            if($this->cache) {
                 $cache->set($this->cacheKey, $this->menuHtml, $this->cache);
             }
-            debug($this->tree);
         }
         $this->output();
     }
 
-    protected function output(){
+    protected function output() {
         $attrs = '';
         if(!empty($this->attrs)){
-            foreach($this->attrs as $k => $v){
+            foreach($this->attrs as $k => $v) {
                 $attrs .= " $k='$v' ";
             }
         }
@@ -61,20 +61,20 @@ class Menu
         echo "</{$this->container}>";
     }
 
-    protected function getTree(){
+    protected function getTree() {
         $tree = [];
         $data = $this->data;
         foreach ($data as $id=>&$node) {
             if (!$node['parent_id']){
                 $tree[$id] = &$node;
-            }else{
+            } else {
                 $data[$node['parent_id']]['childs'][$id] = &$node;
             }
         }
         return $tree;
     }
 
-    protected function getMenuHtml($tree, $tab = ''){
+    protected function getMenuHtml($tree, $tab = '') {
         $str = '';
         foreach($tree as $id => $category){
             $str .= $this->catToTemplate($category, $tab, $id);
@@ -82,7 +82,7 @@ class Menu
         return $str;
     }
 
-    protected function catToTemplate($category, $tab, $id){
+    protected function catToTemplate($category, $tab, $id) {
         ob_start();
         require $this->tpl;
         return ob_get_clean();
