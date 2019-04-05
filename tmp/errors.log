@@ -838,3 +838,9 @@ ______________________
 ______________________
 [2019-03-23 19:30:50] Error text: Page not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 37 
 ______________________
+[2019-04-05 16:54:33] Error text: Failed to connect to DB | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Db.php | Line: 16 
+______________________
+[2019-04-05 18:07:45] Error text: Controller application\controllers\CategoryController not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 34 
+______________________
+[2019-04-05 18:07:50] Error text: Controller application\controllers\CategoryController not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 34 
+______________________

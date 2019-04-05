@@ -2,6 +2,7 @@
 
 namespace application\controllers;
 use application\models\Product;
+use application\models\BreadCrumbs;
 
 class ProductController extends AppController
 {
@@ -12,6 +13,8 @@ class ProductController extends AppController
         if (!$product) {
             throw new \Exception("Page not found {$this->route['alias']}", 404); 
         }
+        $breadcrumbs = BreadCrumbs::getBreadCrumbs($product->category_id, $product->title);
+
         $related = \R::getAll("SELECT * FROM related_product JOIN product ON product.id = related_product.related_id WHERE related_product.product_id = ?", [$product->id]);
         $p_model = new Product;
         $p_model->setRecentlyViewed($product->id);
@@ -24,7 +27,7 @@ class ProductController extends AppController
 
         $gallery = \R::findAll('gallery', 'product_id = ?', [$product->id]);
         $this->setMeta($product->title, $product->description, $product->keywords);
-        $this->set(compact('product', 'related', 'gallery', 'recentlyViewed'));
+        $this->set(compact('product', 'related', 'gallery', 'recentlyViewed', 'breadcrumbs'));
     }
 
 }
