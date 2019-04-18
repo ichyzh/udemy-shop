@@ -2,6 +2,8 @@
 
 namespace application\controllers;
 
+use application\models\Cart;
+
 class CartController extends AppController
 {
     public function addAction() {
@@ -18,7 +20,29 @@ class CartController extends AppController
                 $mod = \R::findOne('modification', 'id = ? AND product_id = ?', [$mod_id, $id]);
             }
         }
-        die;
+        $cart = new Cart();
+        $cart->addToCart($product, $qty, $mod);
+        if ($this->isAjax()) {
+            $this->loadView('cart_modal');
+        }
+        redirect();
     }
+
+    public function showAction(){
+        $this->loadView('cart_modal');
+    }
+
+    public function deleteAction(){
+        $id = !empty($_GET['id']) ? $_GET['id'] : null;
+        if(isset($_SESSION['cart'][$id])){
+            $cart = new Cart();
+            $cart->deleteItem($id);
+        }
+        if($this->isAjax()){
+            $this->loadView('cart_modal');
+        }
+        redirect();
+    }
+
 }
 

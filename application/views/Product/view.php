@@ -134,7 +134,7 @@
                                     <div class="product-bottom">
                                         <h3><a href="product/<?=$item['alias'];?>"><?=$item['title'];?></a></h3>
                                         <p>Explore Now</p>
-                                        <h4><a class="item_add add_to_cart_link" href="cart/add?id=<?=$item['id'];?>" data-id="<?=$item['id'];?>"><i></i></a> 
+                                        <h4><a class="item_add add-to-cart-link" href="cart/add?id=<?=$item['id'];?>" data-id="<?=$item['id'];?>"><i></i></a> 
                                         <span class=" item_price"><?=$curr['symbol_left'];?><?=$item['price'] * $curr['value'];?><?=$curr['symbol_right'];?> <?php if($item['old_price']): ?>
 							<small><del><?=$curr['symbol_left'];?><?=$item['old_price'] * $curr['value'];?><?=$curr['symbol_right'];?></del></small>
 							<?php endif;?></span></h4>
@@ -162,7 +162,7 @@
                                     <div class="product-bottom">
                                         <h3><a href="product/<?=$item['alias'];?>"><?=$item['title'];?></a></h3>
                                         <p>Explore Now</p>
-                                        <h4><a class="item_add add_to_cart_link" href="cart/add?id=<?=$item['id'];?>" data-id="<?=$item['id'];?>"><i></i></a> 
+                                        <h4><a class="item_add add-to-cart-link" href="cart/add?id=<?=$item['id'];?>" data-id="<?=$item['id'];?>"><i></i></a> 
                                         <span class=" item_price"><?=$curr['symbol_left'];?><?=$item['price'] * $curr['value'];?><?=$curr['symbol_right'];?> <?php if($item['old_price']): ?>
 							<small><del><?=$curr['symbol_left'];?><?=$item['old_price'] * $curr['value'];?><?=$curr['symbol_right'];?></del></small>
 							<?php endif;?></span></h4>

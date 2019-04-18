@@ -38,12 +38,16 @@
 				</div>
 				<div class="col-md-6 top-header-left">
 					<div class="cart box_1">
-						<a href="checkout.html">
-							 <div class="total">
-								<span class="simpleCart_total"></span></div>
+						<a href="<?=PATH;?>/cart/show" onclick="getCart(); return false;">
+							<div class="total">
 								<img src="images/cart-1.png" alt="" />
+								<?php if(!empty($_SESSION['cart'])): ?>
+									<span class="simpleCart_total"><?=$_SESSION['cart.currency']['symbol_left'] . $_SESSION['cart.sum'] . $_SESSION['cart.currency']['symbol_right'];?></span>
+								<?php else: ?>
+									<span class="simpleCart_total">Empty Cart</span>
+								<?php endif; ?>
+							</div>
 						</a>
-						<p><a href="javascript:;" class="simpleCart_empty">Empty Cart</a></p>
 						<div class="clearfix"> </div>
 					</div>
 				</div>
@@ -146,6 +150,26 @@
 		</div>
 	</div>
 	<!--footer-end-->
+
+	<!-- Modal -->
+	<div class="modal fade" id="cart" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+		<div class="modal-dialog modal-lg" role="document">
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+					<h4 class="modal-title" id="myModalLabel">Корзина</h4>
+				</div>
+				<div class="modal-body">
+
+				</div>
+				<div class="modal-footer">
+					<button type="button" class="btn btn-default" data-dismiss="modal">Continue</button>
+					<a href="cart/view" type="button" class="btn btn-primary">Make an order</a>
+					<button type="button" class="btn btn-danger" onclick="clearCart()">Clear Cart</button>
+				</div>
+			</div>
+		</div>
+	</div>
 	<?php $curr = \ishop\App::$app->getProperty('currency'); ?>
 
 	<script>
@@ -156,7 +180,7 @@
 
 	</script>
     <script src="js/jquery-1.11.0.min.js"></script>
-    <script src="js/simpleCart.min.js"> </script>
+    <script src="js/bootstrap.min.js"></script>
     <!--dropdown-->
     <script src="js/jquery.easydropdown.js"></script>
     	<!--Slider-Starts-Here-->
