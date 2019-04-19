@@ -1068,3 +1068,5 @@ ______________________
 ______________________
 [2019-04-18 20:17:36] Error text: Call to undefined method application\models\Cart::deleteItem() | File: /Users/ichyzh/htdocs/udemy_shop/application/controllers/CartController.php | Line: 39 
 ______________________
+[2019-04-19 18:20:34] Error text: Failed to connect to DB | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Db.php | Line: 16 
+______________________

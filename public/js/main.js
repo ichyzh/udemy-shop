@@ -59,6 +59,20 @@ function getCart() {
         }
     });
 }
+
+function clearCart() {
+    $.ajax({
+        url: path + '/cart/clear',
+        type: 'GET',
+        success: function(res){
+            showCart(res);
+        },
+        error: function(){
+            alert('Error! Try again later');
+        }
+    });
+}
+
 /* Cart */
 
 
