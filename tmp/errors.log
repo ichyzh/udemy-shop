@@ -1070,3 +1070,33 @@ ______________________
 ______________________
 [2019-04-19 18:20:34] Error text: Failed to connect to DB | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Db.php | Line: 16 
 ______________________
+[2019-07-06 18:15:20] Error text: Failed to connect to DB | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Db.php | Line: 16 
+______________________
+[2019-07-06 18:45:57] Error text: Failed to connect to DB | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Db.php | Line: 16 
+______________________
+[2019-07-06 19:09:23] Error text: Class 'R' not found | File: /Users/ichyzh/htdocs/udemy_shop/application/controllers/SearchController.php | Line: 14 
+______________________
+[2019-07-06 19:09:43] Error text: Method application\controllers\SearchController::indexAction not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 31 
+______________________
+[2019-07-06 19:10:11] Error text: Class 'R' not found | File: /Users/ichyzh/htdocs/udemy_shop/application/controllers/SearchController.php | Line: 14 
+______________________
+[2019-07-06 19:10:13] Error text: Method application\controllers\SearchController::indexAction not found | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/Router.php | Line: 31 
+______________________
+[2019-07-06 19:10:18] Error text: Class 'R' not found | File: /Users/ichyzh/htdocs/udemy_shop/application/controllers/SearchController.php | Line: 14 
+______________________
+[2019-07-06 19:22:57] Error text: Return value of h() must be of the type integer, string returned | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/libs/functions.php | Line: 20 
+______________________
+[2019-07-06 19:23:06] Error text: Return value of h() must be of the type integer, string returned | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/libs/functions.php | Line: 20 
+______________________
+[2019-07-06 19:23:07] Error text: Return value of h() must be of the type integer, string returned | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/libs/functions.php | Line: 20 
+______________________
+[2019-07-06 19:23:08] Error text: Return value of h() must be of the type integer, string returned | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/libs/functions.php | Line: 20 
+______________________
+[2019-07-06 19:23:14] Error text: Return value of h() must be of the type integer, string returned | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/libs/functions.php | Line: 20 
+______________________
+[2019-07-06 19:23:28] Error text: Return value of h() must be of the type integer, string returned | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/libs/functions.php | Line: 20 
+______________________
+[2019-07-06 19:23:40] Error text: Return value of h() must be of the type integer, string returned | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/libs/functions.php | Line: 20 
+______________________
+[2019-07-06 19:23:56] Error text: Return value of h() must be of the type integer, string returned | File: /Users/ichyzh/htdocs/udemy_shop/vendor/udemy_ishop/core/libs/functions.php | Line: 20 
+______________________
